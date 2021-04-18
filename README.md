@@ -1,6 +1,6 @@
 [![Header](https://github.com/GunjanDhanuka/GunjanDhanuka/blob/main/20210418_155832_0000.png "Header")](https://gunjandhanuka.github.io/)
 
-### Hi there 👋
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 <!--
 **GunjanDhanuka/GunjanDhanuka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
