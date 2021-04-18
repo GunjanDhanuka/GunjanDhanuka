@@ -6,7 +6,9 @@
 
 What am I onto?:
 
-- 🔭 I’m currently working on my Portfolio Website and learning Android App Development.
-- 🌱 I’m currently learning Web Development with React js, App Development using Flutter, and doing some Competitive Programming with C++.
+- I’m currently working on my Portfolio and working on sharpening my skills in Mobile Development and Web Development.
+- I’m currently learning Web Development with React js, App Development using Flutter, and doing some Competitive Programming with C++.
+- I plan on learning Machine Learning in the coming months.
+- I enjoy building new things and apps with beautiful designs and also love problem-solving from time-to-time.
 
 
