@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **React, Machine Learning, Data Science.**
 
-- 👨‍💻 All of my projects are available at [gunjandhanuka.github.io](gunjandhanuka.github.io)
+- 👨‍💻 All of my projects are available at [gunjandhanuka.github.io](gunjandhanuka.github.io) **Under construction 👷‍♂️**
 
 - 💬 Ask me about **Flutter and C++.**
 
