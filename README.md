@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **lucifergd192@gmail.com**
 
-- ⚡ Fun fact **I fall in love with technologies too quickly and start learning them at once.**
+- ⚡ Fun fact **I fall in love with technologies too quickly and start learning them at once. 😅**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
