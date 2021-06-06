@@ -4,15 +4,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gunjandhanuka&label=Profile%20views&color=0e75b6&style=flat" alt="gunjandhanuka" /> </p>
 
-- 🔭 I’m currently working on **Portfolio Website**
+- 🔭 I’m currently working on **Portfolio Website and Flutter Projects.**
 
-- 🌱 I’m currently learning **React, Machine Learning, Data Science.**
+- 🌱 I’m currently learning **React, Machine Learning, Data Science and Backend Technologies.**
 
 - 👨‍💻 All of my projects are available at [gunjandhanuka.github.io](gunjandhanuka.github.io) **Under construction 👷‍♂️**
 
-- 💬 Ask me about **Flutter and C++.**
+- 💬 Ask me about **Flutter, C++, Life, Universe and Everything in Between.**
 
-- 📫 How to reach me **lucifergd192@gmail.com**
+- 📫 How to reach me **lucifergd192@gmail.com or d.gunjan@iitg.ac.in**
 
 - ⚡ Fun fact **I fall in love with technologies too quickly and start learning them at once. 😅**
 
