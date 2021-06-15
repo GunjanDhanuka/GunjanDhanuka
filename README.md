@@ -32,5 +32,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gunjandhanuka&show_icons=true&locale=en" alt="gunjandhanuka" /></p>
 
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=zj5tpnsxpdx85fjpnd0ftuqlx&cover_image=true&theme=novatorem)](https://github.com/kittinan/spotify-github-profile)
+
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
