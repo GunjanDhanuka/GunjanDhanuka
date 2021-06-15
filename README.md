@@ -35,5 +35,6 @@
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=zj5tpnsxpdx85fjpnd0ftuqlx&cover_image=true&theme=novatorem)](https://github.com/kittinan/spotify-github-profile)
 
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal)](https://github.com/piyushsuthar/github-readme-quotes)
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
