@@ -1,6 +1,7 @@
-[![Header](https://github.com/GunjanDhanuka/GunjanDhanuka/blob/main/20210418_155832_0000.png "Header")](https://gunjandhanuka.github.io/)
+<!-- [![Header](https://github.com/GunjanDhanuka/GunjanDhanuka/blob/main/20210418_155832_0000.png "Header")](https://gunjandhanuka.github.io/) -->
 <h1 align="center">Hi 👋, I'm Gunjan Dhanuka</h1>
-<h3 align="center">A lifelong learner and developer</h3>
+
+<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=040D11&size=30&center=true&vCenter=true&width=500&lines=Student+Developer.;Exploring+ML%2C+AI+and+DL.;Occasional+Competitive+Programmer.;Lifelong+Learner.;Waiting+to+Travel+the+World.;Mesmerized+by+Sci-Tech." alt="header-svg" /> </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gunjandhanuka&label=Profile%20views&color=0e75b6&style=flat" alt="gunjandhanuka" /> </p>
 
