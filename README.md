@@ -35,11 +35,14 @@
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=zj5tpnsxpdx85fjpnd0ftuqlx&cover_image=true&theme=novatorem)](https://github.com/kittinan/spotify-github-profile)
 
-<h3 align="left>My latest Medium blogs:</h3>
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@imantumorang/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@gunjan-dhanuka/0" alt="Recent Article 0"> 
+### My Blogs:
 
+<a target="_blank" href="https://gunjan-dhanuka.medium.com/freshman-year-at-iit-guwahati-ecfb8d8032cb"> <img src="https://github-readme-medium-recent-article.vercel.app/medium/@gunjan-dhanuka/0" alt="Recent Article 0"/> </a>
 
-<h3 align="left">Quote of the Day:</h3>
+<h3>Programmer's Quote of the Day:</h3>
+
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal)](https://github.com/piyushsuthar/github-readme-quotes)
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
+
+
