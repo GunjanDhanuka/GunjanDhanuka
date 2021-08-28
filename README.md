@@ -39,6 +39,8 @@
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=zj5tpnsxpdx85fjpnd0ftuqlx&cover_image=true&theme=novatorem)](https://github.com/kittinan/spotify-github-profile)
 
+![Metrics](https://metrics.lecoq.io/GunjanDhanuka?template=classic&config.timezone=Asia%2FCalcutta)
+
 ### My Blogs:
 
 <a target="_blank" href="https://gunjan-dhanuka.medium.com/freshman-year-at-iit-guwahati-ecfb8d8032cb"> <img src="https://github-readme-medium-recent-article.vercel.app/medium/@gunjan-dhanuka/0" alt="Recent Article 0"/> </a>
