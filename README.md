@@ -4,7 +4,7 @@
 <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=040D11&size=30&center=true&vCenter=true&width=500&lines=Student+Developer.;Exploring+ML%2C+AI+and+DL.;Occasional+Competitive+Programmer.;Lifelong+Learner.;Waiting+to+Travel+the+World.;Mesmerized+by+Sci-Tech." alt="header-svg" /> </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gunjandhanuka&label=Profile%20views&color=0e75b6&style=flat" alt="gunjandhanuka" /> </p>
-<img align="right" src="./assets/daftpunktocat-thomas.gif" alt="daftpunktocat" height="400" width="400"/>
+<img align="right" src="./assets/daftpunktocat-thomas.gif" alt="daftpunktocat" height="300" width="300"/>
 
 - 🔭 I’m currently working on **Portfolio Website and Flutter Projects.**
 
@@ -38,7 +38,10 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gunjandhanuka&show_icons=true&locale=en" alt="gunjandhanuka" /></p>
 
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gunjandhanuka&show_icons=true&locale=en" alt="gunjandhanuka" /></p>
+
+_Most used languages doesn't reflect my proficiency in a language and is simply a statistic from my repositories, in which language I have written the most lines of code in._
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=zj5tpnsxpdx85fjpnd0ftuqlx&cover_image=true&theme=novatorem)](https://github.com/kittinan/spotify-github-profile)
 
@@ -132,10 +135,10 @@ Python                   3 repos             ██░░░░░░░░░�
 
 
 ### My Blogs:
-
-<img align="right" src="./assets/robot.gif" alt="robot" height="300" width="300"/>
 <a target="_blank" href="https://gunjan-dhanuka.medium.com/freshman-year-at-iit-guwahati-ecfb8d8032cb"> <img src="https://github-readme-medium-recent-article.vercel.app/medium/@gunjan-dhanuka/0" alt="Recent Article 0"/> </a>
 
+
+<img align="right" src="./assets/robot.gif" alt="robot" height="300" width="300"/>
 <h3>Programmer's Quote of the Day:</h3>
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal)](https://github.com/piyushsuthar/github-readme-quotes)
