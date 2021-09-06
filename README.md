@@ -4,6 +4,7 @@
 <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=040D11&size=30&center=true&vCenter=true&width=500&lines=Student+Developer.;Exploring+ML%2C+AI+and+DL.;Occasional+Competitive+Programmer.;Lifelong+Learner.;Waiting+to+Travel+the+World.;Mesmerized+by+Sci-Tech." alt="header-svg" /> </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gunjandhanuka&label=Profile%20views&color=0e75b6&style=flat" alt="gunjandhanuka" /> </p>
+<img align="right" src="./assets/daftpunktocat-thomas.gif" alt="daftpunktocat" height="400" width="400"/>
 
 - 🔭 I’m currently working on **Portfolio Website and Flutter Projects.**
 
@@ -16,6 +17,8 @@
 - 📫 How to reach me **lucifergd192@gmail.com or d.gunjan@iitg.ac.in**
 
 - ⚡ Fun fact **I fall in love with technologies too quickly and start learning them at once. 😅**
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -120,15 +123,17 @@ Python                   3 repos             ██░░░░░░░░░�
 
 
 **Timeline**
-
+<img align="right" src="./assets/pythocat.png" alt="pythocat" height="300" width="300"/>
 ![Chart not found](https://raw.githubusercontent.com/GunjanDhanuka/GunjanDhanuka/main/charts/bar_graph.png) 
 
 
  Last Updated on 06/09/2021
 <!--END_SECTION:waka-->
 
+
 ### My Blogs:
 
+<img align="right" src="./assets/robot.gif" alt="robot" height="300" width="300"/>
 <a target="_blank" href="https://gunjan-dhanuka.medium.com/freshman-year-at-iit-guwahati-ecfb8d8032cb"> <img src="https://github-readme-medium-recent-article.vercel.app/medium/@gunjan-dhanuka/0" alt="Recent Article 0"/> </a>
 
 <h3>Programmer's Quote of the Day:</h3>
