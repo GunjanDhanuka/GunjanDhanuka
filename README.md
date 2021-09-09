@@ -48,13 +48,11 @@ _Most used languages doesn't reflect my proficiency in a language and is simply 
 <!-- ![Metrics](https://metrics.lecoq.io/GunjanDhanuka?template=classic&config.timezone=Asia%2FCalcutta) -->
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-16-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 189 Contributions in the Year 2021
- > 
-> 📦 472.1 kB Used in Github's Storage 
+> 📦 479.7 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -130,7 +128,7 @@ Python                   3 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/GunjanDhanuka/GunjanDhanuka/main/charts/bar_graph.png) 
 
 
- Last Updated on 07/09/2021
+ Last Updated on 09/09/2021
 <!--END_SECTION:waka-->
 
 
