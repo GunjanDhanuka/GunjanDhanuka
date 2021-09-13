@@ -48,13 +48,13 @@ _Most used languages doesn't reflect my proficiency in a language and is simply 
 <!-- ![Metrics](https://metrics.lecoq.io/GunjanDhanuka?template=classic&config.timezone=Asia%2FCalcutta) -->
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-17-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-19-blue)
 
 **🐱 My Github Data** 
 
 > 🏆 189 Contributions in the Year 2021
  > 
-> 📦 440.6 kB Used in Github's Storage 
+> 📦 442.8 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
