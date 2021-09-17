@@ -48,13 +48,13 @@ _Most used languages doesn't reflect my proficiency in a language and is simply 
 <!-- ![Metrics](https://metrics.lecoq.io/GunjanDhanuka?template=classic&config.timezone=Asia%2FCalcutta) -->
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-19-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-21-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 192 Contributions in the Year 2021
+> 🏆 218 Contributions in the Year 2021
  > 
-> 📦 531.2 kB Used in Github's Storage 
+> 📦 542.1 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -65,22 +65,22 @@ _Most used languages doesn't reflect my proficiency in a language and is simply 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    24 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.37% 
-🌆 Daytime    73 commits     ███████████░░░░░░░░░░░░░░   43.71% 
-🌃 Evening    51 commits     ███████░░░░░░░░░░░░░░░░░░   30.54% 
-🌙 Night      19 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.38%
+🌞 Morning    24 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.44% 
+🌆 Daytime    92 commits     ████████████░░░░░░░░░░░░░   47.67% 
+🌃 Evening    58 commits     ███████░░░░░░░░░░░░░░░░░░   30.05% 
+🌙 Night      19 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.84%
 
 ```
-📅 **I'm Most Productive on Monday** 
+📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday       31 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.56% 
-Tuesday      29 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.37% 
-Wednesday    24 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.37% 
-Thursday     12 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.19% 
-Friday       24 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.37% 
-Saturday     19 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.38% 
-Sunday       28 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.77%
+Monday       31 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.06% 
+Tuesday      29 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.03% 
+Wednesday    24 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.44% 
+Thursday     12 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.22% 
+Friday       50 commits     ██████░░░░░░░░░░░░░░░░░░░   25.91% 
+Saturday     19 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.84% 
+Sunday       28 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.51%
 
 ```
 
@@ -130,7 +130,7 @@ Python                   3 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/GunjanDhanuka/GunjanDhanuka/main/charts/bar_graph.png) 
 
 
- Last Updated on 16/09/2021
+ Last Updated on 17/09/2021
 <!--END_SECTION:waka-->
 
 
