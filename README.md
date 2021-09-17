@@ -6,9 +6,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gunjandhanuka&label=Profile%20views&color=0e75b6&style=flat" alt="gunjandhanuka" /> </p>
 <img align="right" src="./assets/daftpunktocat-thomas.gif" alt="daftpunktocat" height="300" width="300"/>
 
-- 🔭 I’m currently working on **Portfolio Website and Flutter Projects.**
+- 🔭 I’m currently working on **Computer Vision and NLP Projects**
 
-- 🌱 I’m currently learning **React, Machine Learning, Data Science and Backend Technologies.**
+- 🌱 I’m currently learning **Deep Learning with focus on CV and Backend Technologies.**
 
 - 👨‍💻 All of my projects are available at [gunjandhanuka.github.io](gunjandhanuka.github.io) **Under construction 👷‍♂️**
 
