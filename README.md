@@ -52,13 +52,13 @@ _Most used languages doesn't reflect my proficiency in a language and is simply 
 
 **🐱 My GitHub Data** 
 
-> 🏆 224 Contributions in the Year 2021
+> 🏆 225 Contributions in the Year 2021
  > 
 > 📦 528.9 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 45 Public Repositories 
+> 📜 46 Public Repositories 
  > 
 > 🔑 5 Private Repositories  
  > 
@@ -130,7 +130,7 @@ Python                   3 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/GunjanDhanuka/GunjanDhanuka/main/charts/bar_graph.png) 
 
 
- Last Updated on 29/09/2021
+ Last Updated on 30/09/2021
 <!--END_SECTION:waka-->
 
 
