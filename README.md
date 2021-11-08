@@ -136,6 +136,8 @@ Python                   3 repos             ██░░░░░░░░░�
 
 ### My Blogs:
 <a target="_blank" href="https://gunjan-dhanuka.medium.com/freshman-year-at-iit-guwahati-ecfb8d8032cb"> <img src="https://github-readme-medium-recent-article.vercel.app/medium/@gunjan-dhanuka/0" alt="Recent Article 0"/> </a>
+<a target="_blank" href="https://gunjan-dhanuka.medium.com/freshman-year-at-iit-guwahati-ecfb8d8032cb"> <img src="https://github-readme-medium-recent-article.vercel.app/medium/@gunjan-dhanuka/1" alt="Recent Article 1"/> </a>
+<a target="_blank" href="https://gunjan-dhanuka.medium.com/freshman-year-at-iit-guwahati-ecfb8d8032cb"> <img src="https://github-readme-medium-recent-article.vercel.app/medium/@gunjan-dhanuka/2" alt="Recent Article 2"/> </a>
 
 
 <img align="right" src="./assets/robot.gif" alt="robot" height="300" width="300"/>
