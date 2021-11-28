@@ -30,7 +30,7 @@
 </p>
 
 [![Badge](https://cp-logo.vercel.app/codechef/lucifergd192?logo=true)]
-[![Badge](https://cp-logo.vercel.app/codeforces/lucifergd192?logo=true)]
+[![Badge](https://cp-logo.vercel.app/codeforces/goonjan?logo=true)]
 
 
 <h3 align="left">Languages and Tools:</h3>
