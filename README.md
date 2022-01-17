@@ -6,17 +6,17 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gunjandhanuka&label=Profile%20views&color=0e75b6&style=flat" alt="gunjandhanuka" /> </p>
 <img align="right" src="./assets/daftpunktocat-thomas.gif" alt="daftpunktocat" height="300" width="300"/>
 
-- 🔭 I’m currently working on **Computer Vision and NLP Projects**
+- 🔭 I’m currently working on **![AlgoViz](https://github.com/GunjanDhanuka/Algorithm-Visualizer) & Cab-Sharing App.**
 
-- 🌱 I’m currently learning **Deep Learning with focus on CV and Backend Technologies.**
+- 🌱 I’m currently learning **Deep Learning and Backend Technologies.**
 
 - 👨‍💻 All of my projects are available at [gunjandhanuka.github.io](gunjandhanuka.github.io) **Under construction 👷‍♂️**
 
-- 💬 Ask me about **Flutter, C++, Life, Universe and Everything in Between.**
+- 💬 Ask me about **Life, Universe and Everything in Between.**
 
 - 📫 How to reach me **lucifergd192@gmail.com or d.gunjan@iitg.ac.in**
 
-- ⚡ Fun fact **I fall in love with technologies too quickly and start learning them at once. 😅**
+- ⚡ Fun fact **I love learning new things and often find myself stuck into too many things at once.**
 
 
 
