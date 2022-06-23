@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gunjandhanuka&label=Profile%20views&color=0e75b6&style=flat" alt="gunjandhanuka" /> </p>
 <img align="right" src="./assets/daftpunktocat-thomas.gif" alt="daftpunktocat" height="300" width="300"/>
 
-- 🔭 I’m currently working on **[AlgoViz](https://github.com/GunjanDhanuka/Algorithm-Visualizer) & Cab-Sharing App.**
+- 🔭 I’m currently working on Research Projects at Riken AI Lab and Carnegie Mellon University.
 
 - 🌱 I’m currently learning **Deep Learning and Backend Technologies.**
 
