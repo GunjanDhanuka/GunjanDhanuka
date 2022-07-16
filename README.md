@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gunjandhanuka&label=Profile%20views&color=0e75b6&style=flat" alt="gunjandhanuka" /> </p>
 
 
-- 🔭 I’m currently working on Research Projects at Riken AI Lab and Carnegie Mellon University.
+- 🔭 I’m currently working on Research Projects at Carnegie Mellon University(USA) and Riken AI lab (Japan).
 
 - 🌱 I’m currently learning **Deep Learning and Backend Technologies.**
 
@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **Life, Universe and Everything in Between.**
 
-- 📫 How to reach me **lucifergd192@gmail.com or d.gunjan@iitg.ac.in**
+- 📫 How to reach me **gdhanuka192@gmail.com or d.gunjan@iitg.ac.in**
 
 - ⚡ Fun fact **I love learning new things and often find myself stuck into too many things at once.**
 
@@ -46,93 +46,6 @@ _Most used languages doesn't reflect my proficiency in a language and is simply 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=zj5tpnsxpdx85fjpnd0ftuqlx&cover_image=true&theme=novatorem)](https://github.com/kittinan/spotify-github-profile)
 <!-- 
 ![Metrics](https://metrics.lecoq.io/GunjanDhanuka?template=classic&config.timezone=Asia%2FCalcutta) -->
-
-<!--START_SECTION:waka-->
-<!-- ![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue) -->
-
-**🐱 My GitHub Data** 
-
-> 🏆 245 Contributions in the Year 2021
- > 
-> 📦 528.9 kB Used in GitHub's Storage 
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 53 Public Repositories 
- > 
-> 🔑 5 Private Repositories  
- > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    26 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.75% 
-🌆 Daytime    97 commits     ████████████░░░░░░░░░░░░░   47.55% 
-🌃 Evening    58 commits     ███████░░░░░░░░░░░░░░░░░░   28.43% 
-🌙 Night      23 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.27%
-
-```
-📅 **I'm Most Productive on Friday** 
-
-```text
-Monday       31 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.2% 
-Tuesday      29 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.22% 
-Wednesday    24 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.76% 
-Thursday     12 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.88% 
-Friday       57 commits     ███████░░░░░░░░░░░░░░░░░░   27.94% 
-Saturday     23 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.27% 
-Sunday       28 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.73%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-C++                      5 hrs 19 mins       ██████████████████████░░░   89.56% 
-Text                     24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.8% 
-Markdown                 7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.11% 
-Dart                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.43% 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.08%
-
-🔥 Editors: 
-VS Code                  5 hrs 51 mins       ████████████████████████░   98.57% 
-Android Studio           5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.43%
-
-🐱‍💻 Projects: 
-DS_Algo_Lab              2 hrs 52 mins       ████████████░░░░░░░░░░░░░   48.51% 
-cp2                      2 hrs 50 mins       ████████████░░░░░░░░░░░░░   47.85% 
-GunjanDhanuka            7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.11% 
-iitg_scanner             5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.43% 
-treasure_hunt_backend    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.08%
-
-💻 Operating System: 
-Linux                    5 hrs 56 mins       █████████████████████████   100.0%
-
-```
-
-**I Mostly Code in Dart** 
-
-```text
-Dart                     12 repos            ████████░░░░░░░░░░░░░░░░░   31.58% 
-JavaScript               8 repos             █████░░░░░░░░░░░░░░░░░░░░   21.05% 
-HTML                     5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.16% 
-Jupyter Notebook         5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.16% 
-Python                   3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   7.89%
-
-```
-
-
-**Timeline**
-
-![Chart not found](https://raw.githubusercontent.com/GunjanDhanuka/GunjanDhanuka/main/charts/bar_graph.png) 
-
-
- Last Updated on 05/10/2021
-<!--END_SECTION:waka-->
-
 
 ### My Blogs:
 <a target="_blank" href="https://gunjan-dhanuka.medium.com/freshman-year-at-iit-guwahati-ecfb8d8032cb"> <img src="https://github-readme-medium-recent-article.vercel.app/medium/@gunjan-dhanuka/0" alt="Recent Article 0"/> </a>
