@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gunjandhanuka&label=Profile%20views&color=0e75b6&style=flat" alt="gunjandhanuka" /> </p>
 
 
-- 🔭 I’m currently working on Research Projects at Carnegie Mellon University(USA) and Riken AI lab (Japan).
+- 🔭 I’m currently working on Research Projects at Carnegie Mellon University(USA) and IIT Guwahati.
 
 - 🌱 I’m currently learning **Deep Learning and Backend Technologies.**
 
