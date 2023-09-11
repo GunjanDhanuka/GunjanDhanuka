@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Deep Learning and Backend Technologies.**
 
-- 👨‍💻 All about me and my projects are available at [gunjandhanuka.github.io](gunjandhanuka.github.io).
+- 👨‍💻 All about me and my projects are available at [gunjandhanuka.com](gunjandhanuka.com).
 
 - 💬 Ask me about **Life, Universe and Everything in Between.**
 
